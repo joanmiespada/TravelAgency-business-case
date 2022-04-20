@@ -9,3 +9,9 @@ We'll introduce the case study, fully anonymised, where we can raise several que
 ## why business?
 
 Let's use the word business here. Just to be focused on non-tech topics. This repo doesn't want to bring tech solutions. Actually, it's far away from its purpose. So, we can use the word 'business' to emphasize that the case studies are oriented to all elements that are tight to software engineering but where we don't pay too much attention. Mainly in the literature, you'll find tons of information about hard-topics (SRE, Async Messaging, software patterns, programming languages, etc.) and team management (coaching, mentoring and people management). But,  there are many other topics that, as engineers, we aren't paying attention to, such as organisation, responsibilities management, roles, ownership and so on. This documentation is about all outside of hard-topics but is tightly close to software development. 
+
+## How can we contribute? 
+
+Either create your own case study and shared it or add more potential solutions to the current ones. All comments are welcome, just open a PR with your feedback and let's debate about the solutions.
+
+# List of case studies
