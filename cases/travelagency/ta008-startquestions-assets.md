@@ -28,6 +28,7 @@ But, let's classify them with:
 
 
 - Which tooling do we need?
+- How many environments? 
 - Do we need to create additional tools?  
 - Which base architecture would we like to code?
 - How many platforms? Mobile, web, backend...
@@ -35,15 +36,24 @@ But, let's classify them with:
 
 ---
 
+# Security
+## Bootstrapping
+
+- What Personally identifiable information (PII) are we storing in our systems? 
+
+
 # Processes
 ## Bootstrapping
 
 - How are we going to operate the platform?
+- Code branching strategy?
 - Which guidelines/rules do we agree to follow? 
 - How and what support are we going to bring to the stakeholders? 
 - Which processes do we need to set up?
 - How is going to be the deployment process?
 - Do we foresee unplanned tasks? how many and how often?
+- How long can take research spikes? 
+- How are we going to estimate our task? 
 
 ---
 
@@ -90,11 +100,4 @@ But, let's classify them with:
 - Have we researched similar projects in the market? 
 - **How confident am I with my capabilities?**
 - What are our weaknesses in the project scope?
-
-
-
-
-
-
-
 
