@@ -14,3 +14,5 @@ image: 'https://github.com/joanmiespada/SoftwareEngineeringBusinessCaseStudies/b
 * Well-staffed teams
 * PM and EM leading the team
 * Data-driven decission company
+* Feedback culture: Performance Reviews (every 6 months)
+* People partner and Engineering Ops

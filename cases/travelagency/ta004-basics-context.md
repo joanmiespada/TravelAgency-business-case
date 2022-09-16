@@ -9,7 +9,7 @@ image: 'https://github.com/joanmiespada/SoftwareEngineeringBusinessCaseStudies/b
 * Good environment for innovation
 * No tech debt, new product from scratch
 * Engineers with several levels of seniority
-    * Good senior density
+* Good senior density
 * They have a high-bar hiring newcomers
 * Excellent laptops
 * Cloud native development

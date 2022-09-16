@@ -21,7 +21,7 @@ info: |
 drawings:
   persist: false
 # use UnoCSS (experimental)
-css: unocss
+# css: unocss
 src: ../cases/travelagency/ta000-intro.md
 ---
 ---
@@ -34,9 +34,23 @@ src: ../cases/travelagency/ta002-basics-welcome.md
 src: ../cases/travelagency/ta003-basics-weknow.md
 ---
 ---
+src: ../cases/travelagency/ta003-basics-weknow2.md
+---
+---
 src: ../cases/travelagency/ta004-basics-context.md
 ---
-
+---
+src: ../cases/travelagency/ta005-objective.md
+---
+---
+src: ../cases/travelagency/ta006-objective-init.md
+---
+---
+src: ../cases/travelagency/ta007-startquestions.md
+---
+---
+src: ../cases/travelagency/ta008-startquestions-assets.md
+---
 
 
 
