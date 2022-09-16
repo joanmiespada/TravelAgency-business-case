@@ -21,10 +21,22 @@ info: |
 drawings:
   persist: false
 # use UnoCSS (experimental)
-# css: unocss
-src: ../cases/travelagency/intro.md
+css: unocss
+src: ../cases/travelagency/ta000-intro.md
 ---
 ---
-src: ../cases/travelagency/main.md
+src: ../cases/travelagency/ta001-briefing.md
 ---
+---
+src: ../cases/travelagency/ta002-basics-welcome.md
+---
+---
+src: ../cases/travelagency/ta003-basics-weknow.md
+---
+---
+src: ../cases/travelagency/ta004-basics-context.md
+---
+
+
+
 
