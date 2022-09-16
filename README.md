@@ -1,17 +1,20 @@
-# Software Engineering Business Case Studies
+# Software Engineering Management Case Studies
 
-One of the most valuable techniques in Business Schools is the 'Case Study' technique. It's very famous in business schools like MIT Sloan, IESE, ESADE, IE, etcetera. The lecturer creates a debate among the students to analyse the case from different points of view. This debate's objective is to improve students' knowledge and transfer the learning from senior people to young ones, allowing students and lecturers to interact/learn with a real business case. 
+One of the most valuable techniques in Business Schools is the 'Case Study' technique. It is famous in business schools like MIT Sloan, IESE, ESADE, IE, etc. The lecturer creates a debate among the students to analyse the case from different points of view. This debate's objective is to improve students' knowledge and transfer the learning from senior people to young ones, allowing students and lecturers to interact/learn with a real business case. 
 
 The objective of this repo is to create a set of real case studies related to software development.
 
-We'll introduce the case study, fully anonymised, where we can raise several questions about the background issues. Later we'll be able to propose improvements.
+We will introduce real case studies, where we can raise several questions about the background issues. Later we will be able to propose improvements.
 
-## why business?
 
-Let's use the word business here. Just to be focused on non-tech topics. This repo doesn't want to bring tech solutions. Actually, it's far away from its purpose. So, we can use the word 'business' to emphasize that the case studies are oriented to all elements that are tight to software engineering but where we don't pay too much attention. Mainly in the literature, you'll find tons of information about hard-topics (SRE, Async Messaging, software patterns, programming languages, etc.) and team management (coaching, mentoring and people management). But,  there are many other topics that, as engineers, we aren't paying attention to, such as organisation, responsibilities management, roles, ownership and so on. This documentation is about all outside of hard-topics but is tightly close to software development. 
+## Why Engineering Management?
+
+Because our objective is to be focused on non-tech topics. This repo collects engineering management cases and doesn't want to bring tech solutions. Actually, it's far away from hard tech solutions. So, we will use the words 'Engineering Management' to emphasise that case studies are oriented to all elements non-tech. Mainly in the literature, you'll find tons of information about hard-topics (SRE, async messaging, software patterns, software architecture, programming languages, etc.) and team management (coaching, mentoring and people management). But,  there are many other topics that, as engineers, maybe we aren't paying enough attention to, but they really matter, such as organisation, responsibilities management, roles, ownership, KPIs, OKRs, SLO and so on. These management cases are engineering topics close to the software development lifecycle. 
 
 ## How can we contribute? 
 
 Either create your own case study and shared it or add more potential solutions to the current ones. All comments are welcome, just open a PR with your feedback and let's debate about the solutions.
 
 # List of case studies
+
+* Travel Agency
