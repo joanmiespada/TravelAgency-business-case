@@ -29,8 +29,6 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: ${{ matrix.node-version }}
-        cache: 'npm'
-        working-directory: ./slidev
     - name: Install dependencies
       run: npm install
     - name: Install slidev
