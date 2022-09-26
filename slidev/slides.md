@@ -43,7 +43,13 @@ src: ../cases/travelagency/ta004-basics-context.md
 src: ../cases/travelagency/ta005-objective.md
 ---
 ---
-src: ../cases/travelagency/ta006-objective-init.md
+src: ../cases/travelagency/ta006-0-objective-init.md
+---
+---
+src: ../cases/travelagency/ta006-1-wherearewe.md
+---
+---
+src: ../cases/travelagency/ta006-2-hypothesis.md
 ---
 ---
 src: ../cases/travelagency/ta007-startquestions.md
