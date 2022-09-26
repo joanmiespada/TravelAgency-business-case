@@ -26,14 +26,12 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
+        cache-dependency-path: slidev/package-lock.json
     - name: Install dependencies
-      working-directory: ./slidev
       run: npm install
     - name: Install slidev
-      working-directory: ./slidev
       run:  npm i -g @slidev/cli
     - name: Build
-      working-directory: ./slidev
       run: slidev build --base SoftwareEngineeringBusinessCaseStudies
     - name: Deploy pages
       uses: crazy-max/ghaction-github-pages@v2
