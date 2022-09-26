@@ -36,8 +36,8 @@ jobs:
       working-directory: ./slidev
       run: slidev build --base SoftwareEngineeringBusinessCaseStudies
     - name: Deploy pages
-      working-directory: ./slidev
       uses: crazy-max/ghaction-github-pages@v2
+      working-directory: ./slidev
       with:
         build_dir: dist
       env:
