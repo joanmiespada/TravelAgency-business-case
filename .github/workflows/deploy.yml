@@ -26,6 +26,8 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
+    - name: Folder slidev
+      run: cd ./slidev
     - name: Install dependencies
       run: npm install
     - name: Install slidev
