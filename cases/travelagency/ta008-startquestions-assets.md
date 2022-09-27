@@ -40,7 +40,11 @@ But, let's classify them with:
 ## Bootstrapping
 
 - What Personally identifiable information (PII) are we storing in our systems? 
+- Secrets, where are we going to store them? 
+- Roles and permissions for each env
+- From which countries are we going to store data? 
 
+---
 
 # Processes
 ## Bootstrapping
@@ -80,6 +84,17 @@ But, let's classify them with:
 
 ---
 
+# Team(s)
+## Bootstrapping
+
+- Platform teams vs Product teams
+- How platform teams operate?
+- What are our reasons to create a new team? 
+- How can we define team boundaries to maximise its autonomy?
+- Cluster/Sub group/Team
+
+
+---
 
 # And...
 ## Bootstrapping
@@ -100,4 +115,9 @@ But, let's classify them with:
 - Have we researched similar projects in the market? 
 - **How confident am I with my capabilities?**
 - What are our weaknesses in the project scope?
+
+- How autonomy are we to work daily?
+- How proud are we of our delivery?
+- Are we contributing to a clear company goal? Is our job impactful?
+
 
