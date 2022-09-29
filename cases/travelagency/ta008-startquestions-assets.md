@@ -5,9 +5,12 @@ But, let's classify them with:
 
 - People
 - Technology
+- Security
 - Processes
 - Product
 - Team
+- Stakeholders
+- Information
 - and...
 
 ---
@@ -58,29 +61,32 @@ But, let's classify them with:
 - Do we foresee unplanned tasks? how many and how often?
 - How long can take research spikes? 
 - How are we going to estimate our task? 
+- When is mandatory to write down a tech RFC about solution details?
 
 ---
 
 # Product
 ## Bootstrapping
 
-- Did some UX researchers do some market research or interview users?
+- Did our UX researchers do a market research or interviewed users?
 - Have we got mockups ready to be implemented?
 - Have we got a memo/documentation about the product's vision? 
+- Have we got product document with the specification?
 - Have we got a rough idea about what KPIs we want to measure?  
 - Have we got enough backlog/user stories well described?
+- What are our weaknesses in the project's scope?
 
 ---
 
 # Team
 ## Bootstrapping
 
-- What methodology do we want to follow? 
-- What ceremonies do we want to place? 
+- What methodology do we want to follow/implement? 
+- What ceremonies do we want to enable? 
 - What principles have we got?
 - How are we going to assess our team's performance?
 - Which team culture do we want to achieve? 
-- How do we want to onboard the people?
+- How do we want to onboard engineers?
 
 ---
 
@@ -91,8 +97,29 @@ But, let's classify them with:
 - How platform teams operate?
 - What are our reasons to create a new team? 
 - How can we define team boundaries to maximise its autonomy?
-- Cluster/Sub group/Team
+- Team hierarchy: Cluster/Sub group/Team
 
+---
+
+# Stakeholders
+## Bootstrapping
+
+- Which channels are we using to communicate our progress?
+- Do we know who the key ones are?
+- How do we agree on our commitments with them?
+- Which visibility can we offer to them? 
+- How often will we update them? 
+- How do we keep the alignment?
+
+---
+
+# Information
+## Bootstrapping
+
+- Where is the most accurate/updated information? 
+- How do we keep it updated? 
+- How teammates and stakeholders can contribute?
+- From how many places do we get information? 
 
 ---
 
@@ -104,6 +131,21 @@ But, let's classify them with:
 
 ---
 
+# Culture
+## Bootstrapping
+
+- Have we write down our culture or team's principles? 
+- Have we got a clear career ladder for each level?
+- How and when the performance review will happen? 
+- Have we got a clear understanding of what it means to give and receive feedback? 
+- Are we embracing failing? 
+- How are we measuring our learnings? 
+- How do we know if we're releasing value?
+- Which kind of data culture do we want?
+- How are we going to resolve disagreements?
+
+
+---
 
 # Metacognition
 ## Bootstrapping
@@ -113,11 +155,17 @@ But, let's classify them with:
 - We know everything in advance
 - Have we explored our own unconscious bias?
 - Have we researched similar projects in the market? 
+- **How confident are we with team capabilities?**
 - **How confident am I with my capabilities?**
-- What are our weaknesses in the project scope?
 
-- How autonomy are we to work daily?
+---
+
+# Bootstraping
+
+## What are the key essential questions?
+
+- How autonomous are we to work daily?
 - How proud are we of our delivery?
-- Are we contributing to a clear company goal? Is our job impactful?
+- Are we contributing to a clear company goal? Or is our job impactful?
 
 

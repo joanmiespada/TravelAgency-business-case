@@ -3,8 +3,9 @@
 ## After one year... 
 
 - Team is stuck 
-- Solution's performance is deficient 
+- KPIs don't scale up
 - Engineering attrition
-- Leadership don't trust the team
+- Company leadership don't trust with the team leadership
+
 
 

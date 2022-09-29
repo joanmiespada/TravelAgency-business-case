@@ -11,12 +11,8 @@ theme: apple-basic
 highlighter: shiki
 # show line numbers in code blocks
 lineNumbers: false
+title: Engineering Management - Travel Agency Inc. -
 # some information about the slides, markdown enabled
-info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
 #persist drawings in exports and build
 drawings:
   persist: false
