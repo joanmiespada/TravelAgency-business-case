@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: 'https://github.com/joanmiespada/SoftwareEngineeringBusinessCaseStudies/blob/main/cases/travelagency/img/plane2.jpg?raw=true'
+image: '/travelagency/plane2.jpg'
 ---
 
 # Time to be read

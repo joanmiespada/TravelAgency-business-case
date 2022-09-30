@@ -1,6 +1,6 @@
 ---
 layout: intro-image
-image: 'https://github.com/joanmiespada/SoftwareEngineeringBusinessCaseStudies/blob/main/cases/travelagency/img/plane.jpg?raw=true'
+image: '/travelagency/plane.jpg'
 ---
 
 

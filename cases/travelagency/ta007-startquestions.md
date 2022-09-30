@@ -1,6 +1,6 @@
 ---
 layout: intro-image-right
-image: 'https://github.com/joanmiespada/SoftwareEngineeringBusinessCaseStudies/blob/main/cases/travelagency/img/manager1.jpg?raw=true'
+image: '/travelagency/manager1.jpg'
 ---
 
 # As Engineering Manager, which questions do I need to resolve?
