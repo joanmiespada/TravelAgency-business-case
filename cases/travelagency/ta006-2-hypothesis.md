@@ -11,4 +11,5 @@ image: '/travelagency/broken.jpg'
     - topics
     - elements 
 - ...were wrong? 
+- How do we begin to resolve it?
 

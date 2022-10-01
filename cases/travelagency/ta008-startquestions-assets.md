@@ -23,6 +23,9 @@ But, let's classify them with:
 - What growth do we expect?
 - What is the minimum number of people needed to protect the team's roadmap?
 - How senior is the PM, my partner, in this project?
+- Have we got a good understanding of the soft and hard skills of each teammate? 
+- Have we got policies/guidelines for: team buildings, hackathons, conferences, offsites, ...
+- How can we know if our people is highly motivated?  
 
 ---
 
@@ -31,11 +34,28 @@ But, let's classify them with:
 
 
 - Which tooling do we need?
-- How many environments? 
+- How many environments?
+    - How stable would be staging or dev env?
+    - If staging/dev is blocked? How can it be unblocked asap?
+    -    
 - Do we need to create additional tools?  
 - Which base architecture would we like to code?
 - How many platforms? Mobile, web, backend...
 - What technologies are we going to use in each platform? 
+
+---
+
+# Technology (II)
+## Bootstrapping
+
+- Testing strategies: 
+    - TDD mindset or no?
+    - Unit test and code coverage thersholds
+    - BDD with product
+    - Integration tests
+    - UI Tests
+    - What is the max. time to execute tests?
+    - How integrated are they in our CI/CD pipeline? 
 
 ---
 
@@ -44,8 +64,9 @@ But, let's classify them with:
 
 - What Personally identifiable information (PII) are we storing in our systems? 
 - Secrets, where are we going to store them? 
-- Roles and permissions for each env
+- Roles, security groups and permissions for each env
 - From which countries are we going to store data? 
+- VPNs 
 
 ---
 
@@ -54,6 +75,7 @@ But, let's classify them with:
 
 - How are we going to operate the platform?
 - Code branching strategy?
+    - trunk based, feature branching, gitflow
 - Which guidelines/rules do we agree to follow? 
 - How and what support are we going to bring to the stakeholders? 
 - Which processes do we need to set up?
@@ -61,7 +83,7 @@ But, let's classify them with:
 - Do we foresee unplanned tasks? how many and how often?
 - How long can take research spikes? 
 - How are we going to estimate our task? 
-- When is mandatory to write down a tech RFC about solution details?
+- When is mandatory to write down a tech RFC about the solution with tech details?
 
 ---
 
@@ -162,10 +184,31 @@ But, let's classify them with:
 
 # Bootstraping
 
-## What are the key essential questions?
+Let's review all topics:
+
+- People
+- Technology
+- Security
+- Processes
+- Product
+- Team
+- Stakeholders
+- Information
+- Culture
+- Metacognition
+
+As EM, if you've got free time then reivew PullRequests, write RFCs and code...
+
+---
+
+# Bootstraping
+## What are top 3 key questions?
+
 
 - How autonomous are we to work daily?
+
 - How proud are we of our delivery?
+
 - Are we contributing to a clear company goal? Or is our job impactful?
 
 
