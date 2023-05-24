@@ -3,7 +3,8 @@ layout: image-right
 image: '/travelagency/plane3.jpg'
 ---
 
-# What we know 
+# What we know
+
 ## Travel Agency Inc. (TA)
 
 * Software product company

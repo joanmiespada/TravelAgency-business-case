@@ -3,7 +3,8 @@ layout: image-right
 image: '/travelagency/plane4.jpg'
 ---
 
-# What we know 
+# What we know
+
 ## Travel Agency Inc. (TA)
 
 * Good environment for innovation
@@ -13,4 +14,4 @@ image: '/travelagency/plane4.jpg'
 * They have a high-bar hiring newcomers
 * Excellent laptops
 * Cloud native development
-* Really good budget for Cloud services and IT 
+* Really good budget for Cloud services and IT
