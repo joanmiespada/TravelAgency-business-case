@@ -11,10 +11,14 @@ theme: apple-basic
 highlighter: shiki
 # show line numbers in code blocks
 lineNumbers: false
+download: false
+aspectRatio: '16/9'
+canvasWidth: 980
 title: Engineering Management - Travel Agency Inc. -
 # some information about the slides, markdown enabled
 #persist drawings in exports and build
 drawings:
+  presenterOnly: true
   persist: false
 # use UnoCSS (experimental)
 # css: unocss
@@ -51,10 +55,8 @@ src: ../cases/travelagency/ta006-2-hypothesis.md
 src: ../cases/travelagency/ta007-startquestions.md
 ---
 ---
-src: ../cases/travelagency/ta008-startquestions-assets.md
+src: ../cases/common/startquestions-assets.md
 ---
 ---
 src: ../cases/travelagency/ta009-startquestions-answers.md
 ---
-
-
