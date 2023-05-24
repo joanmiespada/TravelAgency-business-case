@@ -14,6 +14,6 @@ Because the goal is to be focused on non-tech topics. This repo collects enginee
 
 Either create your own case study and shared it or add more potential solutions to the current ones. All comments are welcome, just open a PR with your feedback and let's debate about the solutions.
 
-## List of case studies
+## Case studiy
 
-* Travel Agency
+* Travel Agency Inc
