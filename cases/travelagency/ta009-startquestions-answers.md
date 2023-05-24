@@ -22,7 +22,7 @@ __This question is misleading! Let´s assume hypergrowth always!__
 
 - What is the minimum number of people needed to protect the team's roadmap?
 
-__I bet to start with at least 2 engineers per platform!__
+__Let's start with at least 2 engineers per platform!__
 
 ---
 
@@ -43,7 +43,7 @@ Is our duty to get a good understanding of our partner, in which areas are stron
 ## Bootstrapping
 
 - Which tooling do we need?
-  - Git repo
+  - Git repo or repos
   - CI/CD pipeline
   - Cloud Infrastructure
   - Infrastructure as code (eg Terraform)
@@ -89,10 +89,12 @@ __2,3,4__
 - What technologies are we going to use in each platform?
 
 __E.g. Javascript has a huge ecosystem__
+__We can use the same language for front and backend: Kotlin__
 
 - Testing strategy?
 
   - __TTD since the beginning or BDD?__
+  - __Avoid manual QA whenever is possible__
   - __Minimum code coverage 80%__
   - __Integration tests? when?__
   - __Automatization tests? when?__
@@ -117,6 +119,7 @@ __E.g. Javascript has a huge ecosystem__
 - How are we going to operate the platform?
   - __1st level support with operators and engineers helping as 3rd level__
   - __Or engineers helping as 1st level__
+  - __Feature toggles__
 
 - Code branching strategy?
   - __feature branch__
@@ -133,6 +136,8 @@ __E.g. Javascript has a huge ecosystem__
   - __Postmortems__
   - __War Room__
   - __RFCs__
+  - __Few processes is better than hundred__
+  - __Always prioritise guidelines rather processes__
 
 - How is going to be the deployment process?
   - __Continous release__
@@ -159,6 +164,7 @@ __E.g. Javascript has a huge ecosystem__
   - __Figma files__
 - Have we got a memo/documentation about the product's vision?
 - Have we got a rough idea about what KPIs we want to measure?  
+  - __Select few KPIs and monitor them__
 - Have we got enough backlog/user stories well described?
 - How are we going to interact with Product for quarter planning?
 
@@ -169,11 +175,17 @@ __E.g. Javascript has a huge ecosystem__
 ## Bootstrapping
 
 - What methodology do we want to follow?
+  - __SCRUM, KANBAN, XP__
 - What ceremonies do we want to place?
+  - __Weekly sprints, Monday Sprint planning, Daily Standup, Thursday Backlog refinement, Friday Sprint Review__
 - What principles have we got?
+  - __To be agreed by the team__
 - How are we going to assess our team's performance?
+  - __Quarterly feedback and performance review__
 - Which team culture do we want to achieve?
+  - __To be agreed by the team__
 - How do we want to onboard the people?
+  - __Clear process with RACI matrix__
 
 ---
 

@@ -38,8 +38,9 @@ But, let's classify them with:
 - Which tooling do we need?
 - How many environments?
   - How stable would be staging or dev env?
-  - If staging/dev is blocked? How can it be unblocked asap?
-  -
+  - If staging/dev is blocked then how could it be unblocked asap?
+  - Is staging env shared for a lot of engineers?
+  - Do we have a local env ready to work on?
 - Do we need to create additional tools?  
 - Which base architecture would we like to code?
 - How many platforms? Mobile, web, backend...
@@ -52,12 +53,13 @@ But, let's classify them with:
 ## Bootstrapping
 
 - Testing strategies:
+  - Manual QA?
   - TDD mindset or no?
   - Unit test and code coverage thersholds
-  - BDD with product
-  - Integration tests
+  - BDD with product folks
+  - Integration tests and where
   - UI Tests
-  - What is the max. time to execute tests?
+  - What is the max. time allowed to execute tests?
   - How integrated are they in our CI/CD pipeline?
 
 ---
@@ -71,6 +73,7 @@ But, let's classify them with:
 - Roles, security groups and permissions for each env
 - From which countries are we going to store data?
 - VPNs
+- How to enforce password rotation?
 
 ---
 
@@ -100,7 +103,7 @@ But, let's classify them with:
 - Do we foresee unplanned tasks? how many and how often?
 - How long can take research spikes?
 - How are we going to estimate our task?
-- When is mandatory to write down a tech RFC about the solution with tech details?
+- When is mandatory to create a tech RFC with new tech details?
 
 ---
 
@@ -108,13 +111,14 @@ But, let's classify them with:
 
 ## Bootstrapping
 
+- How close are we to our users?
 - Did our UX researchers do a market research or interviewed users?
 - Have we got mockups ready to be implemented?
-- Have we got a memo/documentation about the product's vision?
-- Have we got product document with the specification?
+- Any memo/documentation about the product's vision?
+- Product document with the specification approved by stakeholders?
 - Have we got a rough idea about what KPIs we want to measure?  
-- Have we got enough backlog/user stories well described?
-- What are our weaknesses in the project's scope?
+- Our backlog has user's stories well described?
+- What are our feature weaknesses in the project's scope?
 
 ---
 
@@ -131,15 +135,14 @@ But, let's classify them with:
 
 ---
 
-# Team(s)
+# Team (II)
 
 ## Bootstrapping
 
 - Platform teams vs Product teams
-- How platform teams operate?
 - What are our reasons to create a new team?
-- How can we define team boundaries to maximise its autonomy?
 - Team hierarchy: Cluster/Sub group/Team
+- How can we define team boundaries to maximise its autonomy?
 
 ---
 
@@ -161,6 +164,7 @@ But, let's classify them with:
 ## Bootstrapping
 
 - Where is the most accurate/updated information?
+- In which channel should I post an update?
 - How do we keep it updated?
 - How teammates and stakeholders can contribute?
 - From how many places do we get information?
@@ -221,7 +225,7 @@ Let's review all topics:
 - Culture
 - Metacognition
 
-As EM, if you've got free time then reivew PullRequests, write RFCs and code...
+As EM, if you've got free time then you can reivew PullRequests, write RFCs and code...
 
 ---
 
