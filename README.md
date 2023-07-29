@@ -1,5 +1,7 @@
 # Software Engineering Management Case Study: Travel Agency Inc
 
+Website: <https://travelagency-jme.netlify.app/1[https://travelagency-jme.netlify.app/1>]
+
 One of the most valuable study techniques in Business Schools is the 'Case Study'. It is famous in business schools like MIT Sloan, IESE, ESADE, IE, etc. The lecturer creates a debate among the students to analyse the case from different points of view. This debate's objective is to improve students' knowledge and transfer the learning from senior people to young ones, allowing students and lecturers to interact/learn with a real business case.
 
 The objective of this repo is to create a real case studies related to software development and Engineering Management.
